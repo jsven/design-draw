@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-24T08:04:11.936Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dFNjYLrXSd3uizCq8BiM" version="15.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-24T09:53:26.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="fkYbdhVgyU5vplP_bfGP" version="15.8.3" type="github">
   <diagram id="UNxXxtYj0WsU9yzxmoFA" name="Page-1">
-    <mxGraphModel dx="1422" dy="1875" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="1585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -448,6 +448,9 @@
         </mxCell>
         <mxCell id="R9xI7Zl-RxibI9JGirXU-87" value="buildurl" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1050" y="885" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ifqOg7t9T8vawgaDkWHI-1" value="&lt;h1&gt;代码改动&lt;/h1&gt;&lt;p&gt;1，离线数据批量下载同步前同步表结构&lt;/p&gt;&lt;p&gt;2，质检APP与超级APP独立下载方式&lt;/p&gt;&lt;p&gt;3，本地数据库版本高于代码版本讲不阻塞用户使用&lt;/p&gt;&lt;p&gt;4，本地数据库版本会缓存到内存中，不会频繁读取DB&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="900" y="-620" width="350" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
