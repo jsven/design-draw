@@ -1,0 +1,15 @@
+# OS Files
+.DS_Store
+Thumbs.db
+
+
+# Unconfigured Editors
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# Dependencies
+node_modules
