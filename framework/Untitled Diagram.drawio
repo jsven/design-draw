@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T02:57:45.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="XWWIkgGwM425v3myQiaX" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-20T03:59:33.686Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0uQiVmnRMSgtzFpLB5NL" version="16.3.0" type="github">
   <diagram id="Zt27aAjr4QAj1kBU1-q1" name="Page-1">
     <mxGraphModel dx="2328" dy="1978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -390,6 +390,9 @@
             <mxPoint x="620" y="373" as="sourcePoint" />
             <mxPoint x="700" y="372.71" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="z8KMi-OxLpLHsyKg0KSH-166" value="&lt;h1&gt;三大战场规划&lt;/h1&gt;&lt;p&gt;1，陈峥负责质检多组业务架构设计解耦&lt;/p&gt;&lt;p&gt;2，常富负责将形象进度前端业务按陈峥的方案执行解耦迁出&lt;/p&gt;&lt;p&gt;3，江露负责质检所有基础能力沉淀，并将能力支撑到业务组PaaS平台复用&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=20;fontColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="2310" y="-780" width="570" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
