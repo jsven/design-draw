@@ -1,23 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2022-04-08T07:46:12.826Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="By5IQTPOgkMbQtI7V2F7" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-09T06:51:14.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="8YiG1hXhqGtHZN7n-IMe" version="17.4.1" type="github">
   <diagram id="yEnKzRT-DsUdTE4KoWEq" name="Page-1">
-    <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2253" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;执行同步&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;executeSync&lt;/span&gt;&lt;/pre&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-1" value="&lt;font style=&quot;vertical-align: inherit&quot;&gt;&lt;font style=&quot;vertical-align: inherit&quot;&gt;执行同步&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;executeSync&lt;/span&gt;&lt;/pre&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-2" value="是否有上传队列&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getUploadQueueCount&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-2" value="是否有上传队列&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;getUploadQueueCount&lt;/span&gt;&lt;/pre&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="230" width="230" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-3" value="写入队列&lt;br&gt;download_queue（base，projectid）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-3" value="写入队列&lt;br&gt;download_queue（base，projectid）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-4" value="数据上传&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;executeUpload&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-4" value="数据上传&lt;br&gt;&lt;pre style=&quot;background-color: #2b2b2b ; color: #a9b7c6 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #ffc66d&quot;&gt;executeUpload&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-5" value="获取待办队列&lt;br&gt;download_queue&lt;br&gt;(todo)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lC-2ZjM6RaHHVm2ZN_ug-5" value="获取待办队列&lt;br&gt;download_queue&lt;br&gt;(todo)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="115" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGcHZBslkf-IbFXca3CC-1" value="是否有待办队列" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="77.5" y="630" width="195" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pGcHZBslkf-IbFXca3CC-2" value="下载待办队列&lt;br&gt;doto-project-data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGcHZBslkf-IbFXca3CC-3" value="写入队列&lt;br&gt;（business）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pGcHZBslkf-IbFXca3CC-8" value="获取待办时间：" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="240" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="pGcHZBslkf-IbFXca3CC-9" value="检查是否需要&lt;br&gt;出来进度条" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="125" y="860" width="105" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
