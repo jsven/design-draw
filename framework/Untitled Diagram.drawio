@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-07T01:46:43.098Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="gVvKG71B3gzPU4-unNGY" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-09T06:47:11.985Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="3DbSk1zBIccfAFwz1IC-" version="17.4.6" type="github">
   <diagram id="Zt27aAjr4QAj1kBU1-q1" name="Page-1">
     <mxGraphModel dx="2185" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
           <mxGeometry x="2310" y="-780" width="570" height="300" as="geometry" />
         </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="650" height="740" as="geometry" />
+          <mxGeometry x="40" y="930" width="640" height="340" as="geometry" />
         </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="730" y="75" width="600" height="75" as="geometry" />
@@ -436,9 +436,6 @@
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="95" y="1109" width="245" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="JlcYXxeKyx_aNwTiUNC6-18" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="960" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-20" value="SaaS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="194" y="1120" width="66" height="20" as="geometry" />
         </mxCell>
@@ -451,14 +448,11 @@
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="220" y="1140" width="31" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JlcYXxeKyx_aNwTiUNC6-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="JlcYXxeKyx_aNwTiUNC6-24" value="PaaS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="289" y="1140" width="31" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;align=center;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="355" y="1109" width="275" height="101" as="geometry" />
-        </mxCell>
-        <mxCell id="JlcYXxeKyx_aNwTiUNC6-26" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="960" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-27" value="生态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="1115" width="60" height="25" as="geometry" />
@@ -468,6 +462,12 @@
         </mxCell>
         <mxCell id="JlcYXxeKyx_aNwTiUNC6-29" value="框架开发" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="1150" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JlcYXxeKyx_aNwTiUNC6-30" value="&lt;h1&gt;SaaS+PaaS&amp;nbsp; +&amp;nbsp; （生态+PaaS）&lt;/h1&gt;&lt;div&gt;&lt;h1&gt;SaaS&amp;nbsp; +&amp;nbsp; PaaS+生态&lt;/h1&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;关系是怎样的&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="850" width="453" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="JlcYXxeKyx_aNwTiUNC6-31" value="&lt;h1&gt;PaaS 实现 SaaS业务面临问题&lt;/h1&gt;&lt;div&gt;业务多年发展业务导致复杂度高，个性化逻辑多，杂&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1030" width="443" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
