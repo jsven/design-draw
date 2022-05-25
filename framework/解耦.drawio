@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T08:58:32.463Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="nNXE7WFue_N0--dfoyBg" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T09:12:42.620Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="igjjgTLl5pTOOU6Zf6AG" version="18.1.2" type="github">
   <diagram id="hzXEMu5ntENqVs4BT2l5" name="Page-1">
     <mxGraphModel dx="2253" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -251,6 +251,12 @@
         </mxCell>
         <mxCell id="AGVzu1iOlaWHoIZSJ21p-117" value="消息总线" style="text;html=1;strokeColor=none;fillColor=#008a00;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=20;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="720" y="360" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AGVzu1iOlaWHoIZSJ21p-121" value="&lt;h1&gt;工作台问题&lt;/h1&gt;&lt;p&gt;1，独立无法管控&lt;/p&gt;&lt;p&gt;2，重复建设严重&lt;/p&gt;&lt;p&gt;3，体验不一致&lt;/p&gt;&lt;p&gt;4，运维成本&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="80" width="400" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="AGVzu1iOlaWHoIZSJ21p-122" value="&lt;h1&gt;单体应用问题&lt;/h1&gt;&lt;p&gt;1，项目体积大&lt;/p&gt;&lt;p&gt;2，开发影响，效率低下&lt;/p&gt;&lt;p&gt;3，集成接入成本高&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;labelBackgroundColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="407" width="390" height="283" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
