@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T08:05:44.575Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="nQrkhWSUUBqj5ouvAPAw" version="18.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T08:26:47.197Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Safari/537.36" etag="4yf7IGZAjSwAbHLaifCP" version="18.1.2" type="github">
   <diagram id="41Dxw_wFuoIoNIwgH1BK" name="Page-1">
-    <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3080" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1110,6 +1110,18 @@
         </mxCell>
         <mxCell id="Ff8UZ40InLxcxf2Qord5-258" value="&lt;font style=&quot;font-size: 24px&quot;&gt;APP验收流&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="1100" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff8UZ40InLxcxf2Qord5-259" value="检查项" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="540" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff8UZ40InLxcxf2Qord5-260" value="+属性&#xa;1 +属性&#xa;2 +属性3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Ff8UZ40InLxcxf2Qord5-259">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff8UZ40InLxcxf2Qord5-261" value="部位" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="540" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Ff8UZ40InLxcxf2Qord5-262" value="+Attribute1&#xa;+Attribute2&#xa;+Attribute3" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="Ff8UZ40InLxcxf2Qord5-261">
+          <mxGeometry y="30" width="160" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
