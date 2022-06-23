@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-23T06:18:08.437Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="CSETJ4uciDSGFhX3OTfZ" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-23T06:19:01.951Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HwEPM4cnken2g2mGDTjF" version="20.0.1" type="github">
   <diagram id="7hVYhwoCD5ufA0azTFVN" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="XOXwTdlMsXT-Hk_vlsBO-1" value="&lt;h1&gt;数据同步文件下载-data-synchronizer.js&lt;/h1&gt;&lt;p&gt;1, 删除数据同步过程下载文件过程&lt;/p&gt;&lt;p&gt;2，删除同步服务内部对外提供下载文件方法&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="224" y="70" width="536" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XOXwTdlMsXT-Hk_vlsBO-2" value="&lt;h1&gt;downLoadImages&lt;/h1&gt;&lt;p&gt;1,全局下载队列&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="700" width="410" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
