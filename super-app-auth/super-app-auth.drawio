@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-22T01:55:11.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="a4FCWOr74biFStwgEMa6" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-22T01:55:37.751Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="v1s8_bysxxJ1i6HVbKFx" version="20.0.1" type="github">
   <diagram id="58J7UtUzQZCF_PkD9B0w" name="Page-1">
     <mxGraphModel dx="2253" dy="1963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,9 +249,6 @@
         </mxCell>
         <mxCell id="MbF_tQ219azOvAXxZ7R1-17" value="超级APP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1480" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="MbF_tQ219azOvAXxZ7R1-20" value="&lt;h1&gt;商业模式种类&lt;/h1&gt;&lt;p&gt;1，租户买断（所有产品）&lt;/p&gt;&lt;p&gt;2，按项目授权（所有产品）&lt;/p&gt;&lt;p&gt;3，项目合同授权（成本）&lt;/p&gt;&lt;p&gt;4，项目产品授权（所有产品）&lt;/p&gt;&lt;p&gt;5，账号授权（成本）&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="10" width="340" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
