@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T03:38:51.318Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="dKpncQZNHUdwN-yyTr5o" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T03:42:59.510Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jGsHAF0LgyYGOZ03Z63f" version="20.0.1" type="github">
   <diagram id="XZkbwfD2GeSXZEqlT7_g" name="Page-1">
     <mxGraphModel dx="3080" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,7 +149,7 @@
           <mxGeometry x="-920" y="1040" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-870" y="1080" width="610" height="90" as="geometry" />
+          <mxGeometry x="-870" y="1080" width="630" height="90" as="geometry" />
         </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-15" value="质检主容器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-870" y="1080" width="70" height="30" as="geometry" />
@@ -157,11 +157,8 @@
         <mxCell id="RrmX887C-J8t59nC6IIO-16" value="单点登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-830" y="1120" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-17" value="离线初始化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="1120" width="90" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-18" value="子模块代码包管理" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-600" y="1120" width="110" height="40" as="geometry" />
+          <mxGeometry x="-710" y="1120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-870" y="1200" width="630" height="360" as="geometry" />
@@ -191,7 +188,7 @@
           <mxGeometry x="-550" y="1360" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-30" value="离线服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="1120" width="120" height="40" as="geometry" />
+          <mxGeometry x="-560" y="1120" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-550" y="1290" width="250" height="60" as="geometry" />
