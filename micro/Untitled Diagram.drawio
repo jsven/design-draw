@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-08-01T06:17:26.822Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="OumvHpJjv1RZ2KC9y5B0" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-01T06:24:19.010Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8Uz4KAioQZx2TZ5e1PAe" version="20.0.1" type="github">
   <diagram id="XZkbwfD2GeSXZEqlT7_g" name="Page-1">
     <mxGraphModel dx="3080" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-840" y="1250" width="250" height="300" as="geometry" />
+        </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-1" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-960" y="150" width="360" height="520" as="geometry" />
         </mxCell>
@@ -166,53 +169,71 @@
         <mxCell id="RrmX887C-J8t59nC6IIO-20" value="单体应用路由" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-870" y="1200" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-21" value="现场检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="1250" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-22" value="实测实量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="1250" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-23" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="1370" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-24" value="专项巡检" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="1370" width="90" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1250" width="270" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-26" value="解耦路由" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="1250" width="70" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="1360" width="250" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="RrmX887C-J8t59nC6IIO-30" value="离线服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-560" y="1120" width="270" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="1290" width="250" height="60" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-840" y="1250" width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-32" value="离线服务&lt;br&gt;调用协议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1300" width="80" height="40" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-41" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-44">
+          <mxGeometry width="250" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-33" value="Iframe嵌入&lt;br&gt;模块加载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="1300" width="80" height="40" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-42" value="普通路由" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RrmX887C-J8t59nC6IIO-44">
+          <mxGeometry width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-34" value="H5模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="1360" width="70" height="30" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-43" value="" style="group" vertex="1" connectable="0" parent="RrmX887C-J8t59nC6IIO-44">
+          <mxGeometry x="20" y="50" width="210" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-36" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="1490" width="90" height="60" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-21" value="现场检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry y="80" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-37" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="1490" width="90" height="60" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-22" value="实测实量" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry x="120" y="80" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-38" value="在线模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1400" width="200" height="40" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-23" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry x="3" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RrmX887C-J8t59nC6IIO-39" value="离线模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-520" y="1470" width="200" height="40" as="geometry" />
+        <mxCell id="RrmX887C-J8t59nC6IIO-24" value="专项巡检" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry x="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-36" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry x="120" y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-37" value="材料验收" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-43">
+          <mxGeometry y="160" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-548" y="1250" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="RrmX887C-J8t59nC6IIO-46">
+          <mxGeometry width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-45" value="" style="group" vertex="1" connectable="0" parent="RrmX887C-J8t59nC6IIO-46">
+          <mxGeometry width="260" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-26" value="解耦路由" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-28" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="10" y="110" width="250" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="10" y="40" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-32" value="离线服务&lt;br&gt;调用协议" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="40" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-33" value="Iframe嵌入&lt;br&gt;模块加载" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="147" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-34" value="H5模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="10" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-38" value="在线模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="40" y="150" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RrmX887C-J8t59nC6IIO-39" value="离线模块" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="RrmX887C-J8t59nC6IIO-45">
+          <mxGeometry x="40" y="220" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
