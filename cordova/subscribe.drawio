@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T06:15:36.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="j5mUxItNwVzgJiDGZwrA" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T07:00:49.432Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36" etag="UxDB5xOFIoyRXTeilTj-" version="16.1.0" type="github">
   <diagram id="kubIPsS-zQuDnJUvl1ML" name="Page-1">
     <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
           <mxGeometry x="-200" y="320" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-14" value="onCordovaReady_fire" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="340" width="170" height="60" as="geometry" />
+          <mxGeometry x="-60" y="380" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-180" y="480" width="1410" height="90" as="geometry" />
@@ -39,8 +39,8 @@
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-42" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="-80" y="130" as="sourcePoint" />
-            <mxPoint x="-80" y="215" as="targetPoint" />
+            <mxPoint x="-170.5" y="52.5" as="sourcePoint" />
+            <mxPoint x="-170.5" y="137.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-43" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
@@ -50,45 +50,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-46" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-200" y="-90" width="490" height="80" as="geometry" />
+          <mxGeometry x="-200" y="-180" width="480" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
-          <mxGeometry width="490" height="80" as="geometry" />
+          <mxGeometry width="480" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-1" value="onNativeReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
-          <mxGeometry x="140" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-1" value="onNativeReady(2)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
+          <mxGeometry x="137.14285714285714" y="10" width="117.55102040816327" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-2" value="onPluginsReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
-          <mxGeometry x="310" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-2" value="onPluginsReady(1)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
+          <mxGeometry x="303.6734693877551" y="10" width="117.55102040816327" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-7" value="join" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-46">
-          <mxGeometry x="30" y="25" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-47" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-200" width="440" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-35" value="onPluginsReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-47">
-          <mxGeometry x="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-36" value="pluginloader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-47">
-          <mxGeometry width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-45" value="callback" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="LUgBBV5X2RgzdChjrm3_-47">
-          <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="140" y="30" as="sourcePoint" />
-            <mxPoint x="310" y="30" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="29.387755102040817" y="25" width="58.775510204081634" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-48" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="-300" width="440" height="60" as="geometry" />
+          <mxGeometry x="-200" y="-300" width="440" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-26" value="onNativeReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
-          <mxGeometry x="320" width="120" height="60" as="geometry" />
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-26" value="onNativeReady_fire" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
+          <mxGeometry x="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-27" value="android_Exec_Init" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
-          <mxGeometry x="160" width="120" height="60" as="geometry" />
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-27" value="exec&lt;br&gt;Init" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
+          <mxGeometry x="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-28" value="platform_bootstrap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-28" value="platform&lt;br&gt;bootstrap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-48">
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="LUgBBV5X2RgzdChjrm3_-48" source="LUgBBV5X2RgzdChjrm3_-27" target="LUgBBV5X2RgzdChjrm3_-26">
@@ -103,35 +88,6 @@
         <mxCell id="LUgBBV5X2RgzdChjrm3_-63" value="onCordovaConnectionReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="640" y="500" width="290" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-49" value="fileSystemPath/cordova.file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="-90" width="250" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-50" value="waitForInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="360" y="60" width="80" height="247" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-52" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-53" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry x="0.2844" y="35" width="60" relative="1" as="geometry">
-            <mxPoint x="534.5" y="14.999999999999986" as="sourcePoint" />
-            <mxPoint x="535" y="70" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-54" value="fire" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
-          <mxGeometry x="0.336" y="10" width="60" relative="1" as="geometry">
-            <mxPoint x="530" y="210" as="sourcePoint" />
-            <mxPoint x="530.5" y="269.99999999999994" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-55" value="&lt;span&gt;onFileSystemPathsReady&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="270" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-64" value="File&lt;br&gt;requestAllPaths" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="150" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-66" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="640" y="-90" width="280" height="390" as="geometry" />
         </mxCell>
@@ -141,7 +97,7 @@
         <mxCell id="LUgBBV5X2RgzdChjrm3_-58" value="waitForInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-66">
           <mxGeometry y="150" width="90" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-59" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-66">
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-59" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-66">
           <mxGeometry x="120" y="170" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-60" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="LUgBBV5X2RgzdChjrm3_-66">
@@ -168,7 +124,7 @@
         <mxCell id="LUgBBV5X2RgzdChjrm3_-68" value="waitForInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="940" y="60" width="90" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LUgBBV5X2RgzdChjrm3_-69" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-69" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1060" y="80" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-70" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
@@ -191,6 +147,50 @@
         </mxCell>
         <mxCell id="LUgBBV5X2RgzdChjrm3_-74" value="onCordovaInfoReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="501.5" width="260" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-35" value="onPluginsReady_fire" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-36" value="pluginloader" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-45" value="callback" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="60" relative="1" as="geometry">
+            <mxPoint x="480" y="-230" as="sourcePoint" />
+            <mxPoint x="480" y="-180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-81" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1220" y="-340" width="250" height="397" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-54" value="fire" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry x="0.336" y="10" width="60" relative="1" as="geometry">
+            <mxPoint x="170" y="300" as="sourcePoint" />
+            <mxPoint x="170.5" y="359.99999999999994" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-75" value="fileSystemPath/cordova.file" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry width="250" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-76" value="waitForInit" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry y="150" width="80" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-77" value="subscribe" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;rounded=0;dashed=1;" edge="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry x="0.2844" y="35" width="60" relative="1" as="geometry">
+            <mxPoint x="174.5" y="105" as="sourcePoint" />
+            <mxPoint x="175" y="160" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-78" value="onCordovaReady" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry x="100" y="170" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-79" value="File&lt;br&gt;requestAllPaths" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry x="100" y="250" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LUgBBV5X2RgzdChjrm3_-80" value="&lt;span&gt;onFileSystemPathsReady&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="LUgBBV5X2RgzdChjrm3_-81">
+          <mxGeometry x="100" y="360" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
