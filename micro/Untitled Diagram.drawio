@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-08-12T08:47:43.776Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="thPLNewe3ryADaspDmXH" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T09:13:00.904Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zSz68KekocrzdOrzcG-a" version="20.2.3" type="github">
   <diagram id="XZkbwfD2GeSXZEqlT7_g" name="Page-1">
-    <mxGraphModel dx="3907" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3907" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -288,6 +288,24 @@
         </mxCell>
         <mxCell id="r3RrhIlQh65b6_FCEuAB-24" value="离线服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1760" y="1130" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="800" width="200" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-26" value="应用构建" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1560" y="760" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-28" value="1 +&amp;nbsp; N" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="910" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-29" value="1 +&amp;nbsp; 1" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="1140" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="800" width="240" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="r3RrhIlQh65b6_FCEuAB-31" value="发布" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-1280" y="760" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
